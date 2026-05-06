@@ -1,0 +1,31 @@
+age,experience,education,job_role,salary
+25,1,Bachelors,Data Analyst,42000
+26,2,Bachelors,Software Engineer,72000
+27,3,Masters,Data Analyst,65000
+28,4,Masters,Software Engineer,85000
+29,5,PhD,Manager,110000
+30,6,Bachelors,Software Engineer,88000
+31,7,Masters,Manager,105000
+32,8,PhD,Manager,120000
+33,9,Bachelors,Software Engineer,95000
+34,10,Masters,Manager,115000
+35,11,PhD,Manager,130000
+24,1,Bachelors,Data Analyst,40000
+23,0,Bachelors,Data Analyst,35000
+26,2,Masters,Data Analyst,60000
+27,3,Bachelors,Software Engineer,75000
+28,4,Masters,Software Engineer,85000
+29,5,PhD,Manager,115000
+30,6,Bachelors,Data Analyst,70000
+31,7,Masters,Software Engineer,95000
+32,8,PhD,Manager,120000
+25,2,Bachelors,Data Analyst,45000
+26,3,Masters,Data Analyst,62000
+27,4,Bachelors,Software Engineer,78000
+28,5,Masters,Software Engineer,88000
+29,6,PhD,Manager,118000
+22,0,Bachelors,Data Analyst,30000
+23,1,Bachelors,Data Analyst,35000
+24,2,Masters,Data Analyst,50000
+25,3,Bachelors,Software Engineer,70000
+26,4,Masters,Software Engineer,80000
